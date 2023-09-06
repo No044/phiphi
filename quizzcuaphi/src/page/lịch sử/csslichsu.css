@@ -1,0 +1,41 @@
+.lichsutimkiem{
+    display: flex;
+    align-items: center;
+}
+
+.lichsutimkiem .lichsutitle{
+ margin-right: 15px;
+  width: 80px;
+}
+
+.lichsutimkiem .ant-picker{
+   border: 2px solid #41B5D0;
+   background: #FFFFFF;
+   box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+}
+
+.buttonlichsu{
+    margin-left: -25px !important;
+    background: white;
+    color: #41B5D0;
+    border: 2px solid #41B5D0;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+ }
+
+ .iconlichsu{
+    font-size: 20px;
+    margin-left: 5px;
+ }
+.buttonreset{
+    margin-left: 5px;
+    background: white;
+    color: #41B5D0;
+    border: 2px solid #41B5D0;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+}
+.tabletext{
+    color: #41B5D0 ;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 30px;
+}

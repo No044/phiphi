@@ -1,0 +1,72 @@
+
+.formlogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: 200px auto;
+    padding: 50px 50px;
+    background: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    border: 2px solid #41B5D0;
+}
+
+.formlogin .image{
+    width: 45%;
+    display: flex;
+    margin-left: 100px;
+}
+.formlogin .image .img{
+    width: 100%;
+}
+
+
+.formlogin .form{
+    width: 50%;
+    margin-left: 100px;
+}
+
+.formlogin .form .email {
+    width: 85%; 
+    border: 1px solid white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.16);
+    margin-bottom: 5px;
+}
+
+.formlogin  .form .password {
+    width: 85%;
+    margin-top: 5px;
+    border: 1px solid white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.16);
+   
+   
+}
+
+
+
+.formlogin button{
+    margin-right: 10px;
+    margin-top: 20px;
+    width: 30%;
+}
+
+.formlogin .login{
+    background: #41B5D0;
+    color: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    font-weight: 600;
+}
+.formlogin .reset{
+    color: #41B5D0 ;
+    background: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    font-weight: 600;
+    
+}
+.formlogin .member{
+    color: #41B5D0;
+    font-size: 33px;
+    margin-bottom: 35px;
+    margin-left: 60px;
+}
+

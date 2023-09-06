@@ -1,0 +1,64 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF ;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    padding: 25px 0;
+    align-items: center;
+}
+.header .Logo{
+    color: #41B5D0;
+    font-size: 60px;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+.header .login{
+    display: flex;
+    width: 30%;
+    margin-right: 20px;
+}
+.header .login button{
+
+    color: #41B5D0;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.header .Menu ul{
+    display: flex;
+    list-style: none;
+    font-size: 24px;
+}
+.header .Menu ul .xoa{
+    color: #41B5D0;
+    font-weight: 600;
+    margin-left: 60px;
+}
+
+.header .logout .logoutbutton{
+    font-size: 24px;
+    color: #41B5D0;
+    font-weight: 600;
+    margin-right: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-weight: 600;
+} 
+
+.active{
+  color: #D5384D
+}
+
+.tittle{
+    text-align: left !important;
+    font-size: 21px;
+     margin: 50px;
+     color: #FFD21D;
+     font-weight: 600;
+}
+

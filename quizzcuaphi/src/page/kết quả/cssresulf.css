@@ -1,0 +1,117 @@
+.formresulf .dung{
+    color: green ;
+    font-size: 17px;
+}
+
+.formresulf .sai{
+    color: red;
+    font-size: 17px;
+}
+
+.chinhxac{
+    color: green;
+}
+
+.formresulf .ant-ribbon{
+    width: 50px !important;
+    text-align: center;
+    font-weight: 600;
+    margin-right: -50px !important;
+    margin-top: -10px;
+}
+.formresulf{
+    margin-left: 60px;
+}
+.formresulf .tittleresulf{
+    font-weight: 600;
+    font-size: 17px !important;
+    color: #41B5D0 !important;
+    display: inline !important;
+    
+}
+
+.formresulf .radiogroup{
+    margin: 10px 0;
+    margin-left: 55px !important;
+   
+}
+
+.formresulf .dapann{
+    color: #41B5D0 ;
+    font-weight: 600;
+    font-size: 18px;
+    margin-right: 7px;
+}
+
+
+.modalmap{
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+}
+
+.modalmap .ant-modal-title{
+    font-size: 20px !important;
+    color: #23D0E9;
+    font-weight: 600;
+}
+
+.modalmap .tittlepie{
+    color: #41B5D0;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.modalmap .titlediem{
+    font-size: 18px;
+    color : #E8202B;
+    font-weight: 700;
+}
+.modalmap .titlemap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+.modalmap .ant-btn-default{
+    display: none !important;
+}
+
+.modalmap .ant-btn-primary{
+    background: white !important;
+    border: 1px solid #41B5D0;
+    color: #41B5D0 !important;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.modalmap .title{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.buttonresulf{
+    display: flex;
+    margin-left: 50px
+}
+.buttonresulf .button{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #41B5D0 ;
+    background: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    color: #41B5D0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+   
+  }
+  .liquid{
+    color: red !important;
+    font-weight: 600;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5) !important; 
+    
+  }

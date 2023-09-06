@@ -1,0 +1,65 @@
+.custom-notification {
+    border: 2px solid #1890ff;
+    background-color: #f0f5ff;
+    color: #1890ff !important;
+  }
+  
+  .notification-example {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+
+.tittlechitiet{
+    margin: 30px 40px;
+    color: #41B5D0;
+    display: block !important;
+    font-size: 40px;
+ }
+
+ .ant-form-item-required{
+    font-weight: 600;
+    font-size: 17px !important;
+    color: #41B5D0 !important;
+    display: inline !important;
+    margin-left: -12px !important;
+ }
+
+.formchitiet{
+    margin-left: 60px;
+  }
+
+
+.formchitiet .radiogroup{
+    margin-left: 45px ;
+}
+
+ .formchitiet .cha{
+    display: flex;
+    align-items: center;
+ }
+
+  .formchitiet .dapan{
+    color: #41B5D0 ;
+    font-weight: 600;
+    font-size: 18px;
+    margin-right: 7px;
+  }
+
+  .formchitiet .button{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #41B5D0 ;
+    background: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    color: #41B5D0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+  }

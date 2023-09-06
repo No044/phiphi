@@ -1,0 +1,7787 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkP9VQydMBRmW67obqD7"
+    },
+    {
+      "id": 2,
+      "fullName": "Do Thi B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KsZitkpwbbPF3fdjbQWh"
+    },
+    {
+      "id": 3,
+      "fullName": "Ngo Van C",
+      "email": "ngovanc@gmail.com",
+      "password": "ngovanc",
+      "token": "abVy7NJdWVNgqGcCD9Lo"
+    },
+    {
+      "id": 4,
+      "fullName": "Le Van D",
+      "email": "levand@gmail.com",
+      "password": "levand",
+      "token": "tq7nF9XpG3wUnr1U76P5"
+    },
+    {
+      "fullName": "Nguyễn thị e",
+      "email": "nguyenthie@gmail.com",
+      "password": "nguyenthie",
+      "token": "NU2pOY2SHfNXYdeoPuTO",
+      "id": 5
+    },
+    {
+      "token": "tagf2dqkTFvhsQbWU1kZ",
+      "id": 6
+    },
+    {
+      "token": "zRFOUzPt2SZKALuo05J8",
+      "id": 7
+    },
+    {
+      "token": "1C6miInYrLJ8Ik5XdaYH",
+      "id": 8
+    },
+    {
+      "token": "CIWr1gK4OX5g816qEaeY",
+      "id": 9
+    },
+    {
+      "fullname": "sads",
+      "email": "dasdasd",
+      "password": "asdasd",
+      "token": "955OwCr8wVUqAlfPGU08",
+      "id": 10
+    },
+    {
+      "fullname": "phi",
+      "email": "nhutphi0123@gmail.com",
+      "password": "saolon0123",
+      "token": "9MB1qDfGPrA9QF5SNFkB",
+      "id": 11
+    },
+    {
+      "token": "sD5Whnfm9SWmeC7YVoNL",
+      "id": 12
+    },
+    {
+      "token": "vf62AcaO2FU4pJanhiRJ",
+      "id": 13
+    },
+    {
+      "token": "NRmim0kCAzYQJWz5bFLN",
+      "id": 14
+    },
+    {
+      "fullname": "nguyenthia",
+      "email": "nhutphi01234@gmail.com",
+      "password": "21312",
+      "token": "6fg8OX4MZvqjcz13pBoy",
+      "id": 15
+    },
+    {
+      "token": "zTqQNVslpN6odK320QJZ",
+      "id": 16
+    },
+    {
+      "email": "nhutphi0123@gmail.co",
+      "token": "vNturFW9dMrZnV7cLL2D",
+      "id": 17
+    },
+    {
+      "email": "nhutphi0122386@gmai",
+      "token": "6Qvgq7rswbrb6la6BhZ3",
+      "id": 18
+    },
+    {
+      "token": "tuRcocZYJBVZvTs6fXRq",
+      "id": 19
+    },
+    {
+      "email": "nhutphi0123@d",
+      "token": "hBf9LBewFs7Ix0xtGYdb",
+      "id": 20
+    },
+    {
+      "token": "OVHl9itpL7K5ytUK7gqE",
+      "id": 21
+    },
+    {
+      "fullname": "sd",
+      "email": "nhutphi0122386@gmail.com",
+      "password": "ád",
+      "token": "qohbxRP5xus9SUme1bXW",
+      "id": 22
+    },
+    {
+      "fullname": "sads",
+      "email": "nhutphi01225386@gmail.com",
+      "password": "ád",
+      "token": "gdd2h07ePJlbJsKYoQ97",
+      "id": 23
+    },
+    {
+      "fullname": "ád",
+      "email": "nhutphi01322386@gmail.com",
+      "password": "ád",
+      "token": "nsEApcbk5V92AJ5e32S7",
+      "id": 24
+    },
+    {
+      "fullname": "s",
+      "email": "nhutphi01223826@gmail.com",
+      "password": "ád",
+      "token": "H9JjiRA3SQEO8XPsTpao",
+      "id": 25
+    },
+    {
+      "fullname": "sd",
+      "email": "nhutphi01223286@gmail.com",
+      "password": "sd",
+      "token": "cqZvEtKzvJC2wBNsImBm",
+      "id": 26
+    },
+    {
+      "fullname": "ss",
+      "email": "nhutphi0122386@gmail.coma",
+      "password": "ádasd",
+      "token": "xEgsnP0WIgsBf1h8SiSh",
+      "id": 27
+    },
+    {
+      "fullname": "ss",
+      "email": "nhutphi01223863@gmail.coma",
+      "password": "ádasd",
+      "token": "MYJdxYVsYRfvLsnOBjOW",
+      "id": 28
+    },
+    {
+      "fullname": "ss",
+      "email": "nhutphi01223863@gmail.com",
+      "password": "ádasd",
+      "token": "IHij5apdJgD5o8FulA0X",
+      "id": 29
+    },
+    {
+      "fullname": "ss",
+      "email": "nhutphi012238633@gmail.com",
+      "password": "saolon",
+      "token": "v7jjN65KeMPrLKx7rK4j",
+      "id": 30
+    },
+    {
+      "fullname": "ss",
+      "email": "nhutphi0122348633@gmail.com",
+      "password": "saolon",
+      "token": "8HzIJ1IkM4J2jcoGJirk",
+      "id": 31
+    },
+    {
+      "fullname": "nguyenthia",
+      "email": "nhutphi01223846@gmail.com",
+      "password": "saolon0123",
+      "token": "l8DcmcLo56OHgv63zIF4",
+      "id": 32
+    },
+    {
+      "fullname": "aa",
+      "email": "saod@gmail.com",
+      "password": "saolon0123",
+      "token": "WC5De01WffCbpzED7oKe",
+      "id": 33
+    },
+    {
+      "fullname": "Nhựt Phi",
+      "email": "nhutphi2003@gmail.com",
+      "password": "saolon0123",
+      "token": "6HEW1zhclhsfyKKG8IAn",
+      "id": 34
+    },
+    {
+      "fullname": "Trong An",
+      "email": "hi@gmail.com",
+      "password": "saolon0123",
+      "token": "76cwIZhIAlxulnXeLrya",
+      "id": 35
+    },
+    {
+      "fullname": "Thanh Phong",
+      "email": "phong0123@gmail.com",
+      "password": "saolon0123",
+      "token": "gJwMKK8WCQZVGbVa842p",
+      "id": 36
+    },
+    {
+      "fullname": "Nhựt Phi",
+      "email": "phiheo@gmail.com",
+      "password": "saolon0123",
+      "token": "EGg2qxytYnfc8GAIt2Rz",
+      "id": 37
+    },
+    {
+      "fullname": "Thanh Phong",
+      "email": "thanhphong@gmail.com",
+      "password": "123456",
+      "token": "3dWp2HfkhTLiwux1JXvV",
+      "id": 38
+    },
+    {
+      "fullname": "nhutphi",
+      "email": "phiphi0123@gmail.com",
+      "password": "saolon0123",
+      "token": "3QcO1pCJTM5J5uh5Elwt",
+      "id": 39
+    },
+    {
+      "fullname": "Nhựt Phi",
+      "email": "Nguyenphi@gmail.com",
+      "password": "saolon0123",
+      "token": "x77QNKTeDBy4uswyyl2R",
+      "id": 40
+    },
+    {
+      "fullname": "Nhựt Phi",
+      "email": "nhutphi09082003@gmail.com",
+      "password": "nhutphi",
+      "token": "a4R8GipuLqXTdw3GeFPr",
+      "id": 41
+    },
+    {
+      "fullname": "Nhựt Phi",
+      "email": "phiphi090803@gmail.com",
+      "password": "saolon0123",
+      "token": "9QJFBqlmvQzA4pCFykuY",
+      "id": 42
+    },
+    {
+      "fullname": "Thệ pan",
+      "email": "pannasak0123@gmail.com",
+      "password": "saolon0123",
+      "token": "3qrr7FTm1Vo0zF7TEg28",
+      "id": 43
+    },
+    {
+      "fullname": "Nhutphi",
+      "email": "Nhutphi@gmail.com",
+      "password": "saolon0123",
+      "token": "ZQtWDulsl1gzLxWDaTd8",
+      "id": 44
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML5"
+    },
+    {
+      "id": 2,
+      "name": "CSS3"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "ReactJS"
+    },
+    {
+      "id": 5,
+      "name": "CNXH C1.1"
+    },
+    {
+      "id": 6,
+      "name": "CNXH C1.2"
+    },
+    {
+      "id": 7,
+      "name": "CNXH C2.1"
+    },
+    {
+      "id": 8,
+      "name": "CNXH C2.2"
+    },
+    {
+      "id": 9,
+      "name": "CNXH C3.1"
+    },
+    {
+      "id": 10,
+      "name": "CNXH C3.2"
+    },
+    {
+      "id": 11,
+      "name": "CNXH C4.1"
+    },
+    {
+      "id": 12,
+      "name": "CNXH C4.2"
+    },
+    {
+      "id": 13,
+      "name": "CNXH C5.1"
+    },
+    {
+      "id": 14,
+      "name": "CNXH C5.2"
+    },
+    {
+      "id": 15,
+      "name": "CNXH C6.1"
+    },
+    {
+      "id": 16,
+      "name": "CNXH C6.2"
+    },
+    {
+      "id": 17,
+      "name": "CNXH C7.1"
+    },
+    {
+      "id": 18,
+      "name": "CNXH C7.2"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "question": "HTML là viết tắt của…?",
+      "answers": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "topicId": 1,
+      "question": "Ai là người đưa ra các tiêu chuẩn Web?",
+      "answers": [
+        "Tổ chức World Wide Web Consortium (W3C)",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "topicId": 1,
+      "question": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+      "answers": [
+        "<h6>",
+        "<h1>",
+        "<head>",
+        "<heading>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "topicId": 1,
+      "question": "Thẻ nào dùng để xuống dòng trong HTML?",
+      "answers": [
+        "<enter>",
+        "<br>",
+        "<break>",
+        "<lb>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "topicId": 1,
+      "question": "Chọn thẻ HTML chính xác dùng để xác định văn bản quan trọng",
+      "answers": [
+        "<important>",
+        "<strong>",
+        "<b>",
+        "<i>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "topicId": 1,
+      "question": "Chọn thẻ HTML được dùng nhấn mạnh nội dung văn bản",
+      "answers": [
+        "<i>",
+        "<em>",
+        "<italic>",
+        "<b>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "topicId": 1,
+      "question": "Mã HTML chính xác để tạo liên kết là…",
+      "answers": [
+        "<a name=\"https://daca.vn\">Daca.vn</a>",
+        "<a href=\"https://daca.vn\">Daca.vn</a>",
+        "<a url=\"https://daca.vn\">Daca.vn</a>",
+        "<a>https://daca.vn</a>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "topicId": 1,
+      "question": "Ký tự nào được dùng để biểu thị cho một thẻ đóng?",
+      "answers": [
+        "\\",
+        "/",
+        "^",
+        "*"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 9,
+      "topicId": 1,
+      "question": "Mã HTML nào bạn sẽ dùng khi muốn mở link trên 1 tab hoặc cửa sổ mới?",
+      "answers": [
+        "<a href=\"https://daca.vn\" target=\"new\">Daca.vn</a>",
+        "<a href=\"https://daca.vn\" new>Daca.vn</a>",
+        "<a href=\"https://daca.vn\" target=\"_blank\">Daca.vn</a>",
+        "<a href=\"https://daca.vn\" blank>Daca.vn</a>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "topicId": 1,
+      "question": "Những thẻ HTML nào dùng để định nghĩa cấu trúc của bảng?",
+      "answers": [
+        "<table>, <thead>, <tbody>, <tr>, <tt>",
+        "<table>, <thead>, <tbody>, <tr>, <td>",
+        "<table>, <head>, <tfoot>, <tr>, <td>",
+        "<thead>, <thead>, <body>, <tr>, <td>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 11,
+      "topicId": 1,
+      "question": "Các thẻ HTML có thể viết liền nhau mà không cần bắt buộc xuống dòng mới?",
+      "answers": [
+        "Đúng",
+        "Sai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 12,
+      "topicId": 1,
+      "question": "Để tạo một danh sách có dấu đầu dòng, bạn dùng thẻ HTML nào?",
+      "answers": [
+        "<ul>",
+        "<list>",
+        "<lt>",
+        "<ol>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "topicId": 1,
+      "question": "Để tạo một danh sách đánh số, bạn dùng phần tử HTML nào?",
+      "answers": [
+        "<ul>",
+        "<list>",
+        "<lt>",
+        "<ol>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 14,
+      "topicId": 1,
+      "question": "Thẻ HTML nào tạo ra một hộp kiểm (checkbox)?",
+      "answers": [
+        "<check>",
+        "<checkbox>",
+        "<input type=\"check\">",
+        "<input type=\"checkbox\">"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 15,
+      "topicId": 1,
+      "question": "Thẻ HTML nào tạo ra một ô nhập dữ liệu văn bản?",
+      "answers": [
+        "<input type=\"textfield\">",
+        "<input type=\"text\">",
+        "<textinput type=\"text\">",
+        "<textfield>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "topicId": 1,
+      "question": "Thẻ HTML nào tạo ra một danh sách thả xuống (drop-down list)?",
+      "answers": [
+        "<input type=\"list\">",
+        "<input type=\"dropdown\">",
+        "<select>",
+        "<list>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 17,
+      "topicId": 1,
+      "question": "Thẻ HTML nào tạo ra một ô nhập dữ liệu với nhiều dòng?",
+      "answers": [
+        "<input type=\"textarea\">",
+        "<textarea></textarea>",
+        "<input type=\"textbox\">",
+        "<textbox></textbox>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 18,
+      "topicId": 1,
+      "question": "Thẻ HTML nào dùng để chèn một hình ảnh?",
+      "answers": [
+        "<image src=\"image.gif\" alt=\"Ảnh đẹp\">",
+        "<img href=\"image.gif\" alt=\"Ảnh đẹp\">",
+        "<img src=\"image.gif\" alt=\"Ảnh đẹp\">",
+        "<img alt=\"Ảnh đẹp\">image.gif</img>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 19,
+      "topicId": 1,
+      "question": "Thẻ <iframe> được sử dụng để hiển thị một trang trong một trang web?",
+      "answers": [
+        "Đúng",
+        "Sai",
+        "Không có thẻ <iframe>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 20,
+      "topicId": 1,
+      "question": "Các chú thích trong HTML sẽ bắt đầu bằng <!-- và kết thúc bằng -->",
+      "answers": [
+        "Đúng",
+        "Sai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 21,
+      "topicId": 2,
+      "question": "CSS là viết tắt của?",
+      "answers": [
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 22,
+      "topicId": 2,
+      "question": "Muốn liên kết file HTML với file CSS ta dùng dòng nào sau đây?",
+      "answers": [
+        "<style src=\"mystyle.css\">",
+        "<stylesheet>mystyle.css</stylesheet>",
+        "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 23,
+      "topicId": 2,
+      "question": "Thuộc tính nào định nghĩa CSS ngay trong 1 tag?",
+      "answers": [
+        "font",
+        "class",
+        "style",
+        "styles"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 24,
+      "topicId": 2,
+      "question": "Đặt dòng liên kết với file CSS ở vùng nào trong file HTML?",
+      "answers": [
+        "Trong thẻ <body>",
+        "Trong thẻ <head>",
+        "Ở cuối file HTML",
+        "Ở đầu file HTML"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 25,
+      "topicId": 2,
+      "question": "Dòng nào tuân theo đúng cú pháp của CSS?",
+      "answers": [
+        "body { color: black }",
+        "{ body; color: black }",
+        "body: color=black",
+        "{ body: color=black }"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 26,
+      "topicId": 2,
+      "question": "Dòng nào thể hiện đúng một comment (lời chú thích) trong CSS?",
+      "answers": [
+        "/* this is a comment */",
+        "// this is a comment //",
+        "\"this is a comment\"",
+        "// this is a comment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 27,
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi màu nền?",
+      "answers": [
+        "color",
+        "bgcolor",
+        "background-color",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 28,
+      "topicId": 2,
+      "question": "Làm thế nào thêm màu nền cho tất cả các phần tử <h1>?",
+      "answers": [
+        "h1.all {background-color:#FFFFFF}",
+        "h1 {background-color:#FFFFFF}",
+        "all.h1 {background-color:#FFFFFF}",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 29,
+      "topicId": 2,
+      "question": "Làm thế nào thay màu của chữ (text)?",
+      "answers": [
+        "text-color=",
+        "fgcolor:",
+        "color:",
+        "text-color:"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 30,
+      "topicId": 2,
+      "question": "Thuộc tính nào thay đổi kích cỡ chữ?",
+      "answers": [
+        "font-style",
+        "font-size:",
+        "text-style",
+        "text-size"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 31,
+      "topicId": 2,
+      "question": "Thuộc tính nào làm chữ trong tag p trở thành chữ đậm?",
+      "answers": [
+        "p {text-size: bold}",
+        "<p style=\"font-size: bold\">",
+        "<p style=\"text-size: bold\">",
+        "p {font-weight: bold}"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 32,
+      "topicId": 2,
+      "question": "Làm sao để hiển thị liên kết mà ko có gạch chân bên dưới?",
+      "answers": [
+        "a {decoration: no underline}",
+        "a {text-decoration: no underline}",
+        "a {underline: none}",
+        "a {text-decoration: none}"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 33,
+      "topicId": 2,
+      "question": "Làm sao để mỗi từ trong 1 câu đều viết hoa ở đầu từ?",
+      "answers": [
+        "text-transform: capitalize",
+        "text-transform:uppercase",
+        "Cả A và B đều đúng",
+        "CSS không hỗ trợ chức năng này"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 34,
+      "topicId": 2,
+      "question": "Làm sao để thay đổi font của mỗi phần tử?",
+      "answers": [
+        "font=",
+        "font:",
+        "font-family:",
+        "font-family="
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 35,
+      "topicId": 2,
+      "question": "Làm sao để tạo chữ đậm?",
+      "answers": [
+        "font-weight: bold",
+        "style: bold",
+        "font-style: bold",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 36,
+      "topicId": 2,
+      "question": "Làm sao để thay đổi lề trái của một phần tử?",
+      "answers": [
+        "margin-left:",
+        "text-indent:",
+        "indent:",
+        "left:"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 37,
+      "topicId": 2,
+      "question": "Để định nghĩa khoảng trống giữa các viền (border) của phần tử và nội dung, bạn sử dụng thuộc tính padding, có thể gán giá trị âm cho thuộc tính này không?",
+      "answers": [
+        "Có",
+        "Không",
+        "Chỉ có thể ở một vài trường hợp đặc biệt",
+        "Tùy theo trình duyệt người dùng"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 38,
+      "topicId": 2,
+      "question": "Làm thế nào để hình ở đầu mỗi dòng của 1 list (danh sách) có hình vuông?",
+      "answers": [
+        "type: 2",
+        "type: square",
+        "list-type: square",
+        "list-style-type: square"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 39,
+      "topicId": 2,
+      "question": "a:hover là:",
+      "answers": [
+        "Liên kết chưa thăm",
+        "Di chuột vào thẻ a",
+        "Liên kết đã thăm",
+        "Kích hoạt một thành phần"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 40,
+      "topicId": 2,
+      "question": "Có mấy vị trí đặt CSS",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 41,
+      "topicId": 3,
+      "question": "Để kiểm tra kiểu dữ liệu của một biến trong JavaScript, ta sử dụng toán tử gì?",
+      "answers": [
+        "typeof",
+        "instanceof",
+        "typeofof",
+        "checktype"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 42,
+      "topicId": 3,
+      "question": "Cách để lấy độ dài của một chuỗi trong JavaScript?",
+      "answers": [
+        "length()",
+        "size()",
+        "count()",
+        "length"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 43,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để thêm một phần tử vào cuối một mảng trong JavaScript?",
+      "answers": [
+        "push()",
+        "pop()",
+        "unshift()",
+        "shift()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 44,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để xóa một phần tử ở cuối một mảng trong JavaScript?",
+      "answers": [
+        "push()",
+        "pop()",
+        "unshift()",
+        "shift()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 45,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để xóa một phần tử ở đầu một mảng trong JavaScript?",
+      "answers": [
+        "push()",
+        "pop()",
+        "unshift()",
+        "shift()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 46,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để chuyển đổi một số thành một chuỗi trong JavaScript?",
+      "answers": [
+        "toString()",
+        "toText()",
+        "convertToString()",
+        "string()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 47,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để tạo một số ngẫu nhiên trong JavaScript?",
+      "answers": [
+        "random()",
+        "rand()",
+        "randomNumber()",
+        "generateRandom()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 48,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để đảo ngược thứ tự các phần tử của một mảng trong JavaScript?",
+      "answers": [
+        "sort()",
+        "reverse()",
+        "splice()",
+        "slice()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 49,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để tìm phần tử đầu tiên trong một mảng thỏa mãn một điều kiện nhất định trong JavaScript?",
+      "answers": [
+        "filter()",
+        "find()",
+        "map()",
+        "reduce()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 50,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để tạo ra một mảng mới dựa trên mảng ban đầu trong JavaScript?",
+      "answers": [
+        "filter()",
+        "find()",
+        "map()",
+        "reduce()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 51,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để tính toán một giá trị duy nhất từ một mảng trong JavaScript?",
+      "answers": [
+        "filter()",
+        "find()",
+        "map()",
+        "reduce()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 52,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để mở một cửa sổ trình duyệt mới trong JavaScript?",
+      "answers": [
+        "openWindow()",
+        "newWindow()",
+        "createWindow()",
+        "window.open()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 53,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để đóng cửa sổ trình duyệt hiện tại trong JavaScript?",
+      "answers": [
+        "closeWindow()",
+        "window.close()",
+        "exitWindow()",
+        "hideWindow()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 54,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để xác định kích thước của cửa sổ trình duyệt trong JavaScript?",
+      "answers": [
+        "getWindowSize()",
+        "getBrowserSize()",
+        "getSize()",
+        "window.innerWidth và window.innerHeight"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 55,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để thêm một class vào một phần tử HTML trong JavaScript?",
+      "answers": [
+        "addClass()",
+        "insertClass()",
+        "setClass()",
+        "element.classList.add()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 56,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để xóa một class khỏi một phần tử HTML trong JavaScript?",
+      "answers": [
+        "element.classList.remove()",
+        "removeClass()",
+        "deleteClass()",
+        "eraseClass()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 57,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để kiểm tra xem một phần tử HTML có một class nhất định hay không trong JavaScript?",
+      "answers": [
+        "hasClass()",
+        "checkClass()",
+        "element.classList.contains()",
+        "containsClass()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 58,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để thêm một sự kiện vào một phần tử HTML trong JavaScript?",
+      "answers": [
+        "addEventListener()",
+        "attachEvent()",
+        "bindEvent()",
+        "setEvent()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 59,
+      "topicId": 3,
+      "question": "Hàm nào được sử dụng để loại bỏ một sự kiện khỏi một phần tử HTML trong JavaScript?",
+      "answers": [
+        "removeEvent()",
+        "removeEventListener()",
+        "detachEvent()",
+        "unbindEvent()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 60,
+      "topicId": 3,
+      "question": "Để lấy một phần tử HTML trong DOM bằng JavaScript, ta sử dụng phương thức nào của đối tượng document?",
+      "answers": [
+        "getElementById()",
+        "getElementsByClassName()",
+        "getElementsByTagName()",
+        "querySelector()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 61,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng element được sử dụng để lấy giá trị của thuộc tính HTML?",
+      "answers": [
+        "setAttribute()",
+        "removeAttribute()",
+        "getAttribute()",
+        "hasAttribute()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 62,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng element được sử dụng để đặt giá trị của thuộc tính HTML?",
+      "answers": [
+        "setAttribute()",
+        "removeAttribute()",
+        "getAttribute()",
+        "hasAttribute()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 63,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng element được sử dụng để xóa một thuộc tính HTML?",
+      "answers": [
+        "setAttribute()",
+        "removeAttribute()",
+        "getAttribute()",
+        "hasAttribute()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 64,
+      "topicId": 3,
+      "question": "Để tạo một phần tử HTML mới bằng JavaScript, ta sử dụng phương thức nào của đối tượng document?",
+      "answers": [
+        "createElement()",
+        "createTextNode()",
+        "createAttribute()",
+        "createHTML()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 65,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng fetch được sử dụng để gửi yêu cầu lấy dữ liệu đến máy chủ?",
+      "answers": [
+        "get()",
+        "post()",
+        "put()",
+        "delete()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 66,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng fetch được sử dụng để gửi yêu cầu lưu dữ liệu đến máy chủ?",
+      "answers": [
+        "get()",
+        "post()",
+        "put()",
+        "delete()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 67,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng fetch được sử dụng để gửi yêu cầu cập nhật dữ liệu đến máy chủ?",
+      "answers": [
+        "get()",
+        "post()",
+        "put()",
+        "delete()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 68,
+      "topicId": 3,
+      "question": "Phương thức nào của đối tượng fetch được sử dụng để gửi yêu cầu xóa dữ liệu đến máy chủ?",
+      "answers": [
+        "get()",
+        "post()",
+        "put()",
+        "delete()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 69,
+      "topicId": 3,
+      "question": "Khi nào chúng ta sử dụng phương thức then() của đối tượng fetch?",
+      "answers": [
+        "Để xử lý kết quả trả về từ phản hồi",
+        "Để gửi yêu cầu đến máy chủ",
+        "Để tạo đối tượng Response mới",
+        "Tất cả các đáp án đều sai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 70,
+      "topicId": 3,
+      "question": "Khi nào chúng ta sử dụng phương thức catch() của đối tượng fetch?",
+      "answers": [
+        "Khi xảy ra lỗi trong quá trình gửi yêu cầu đến máy chủ",
+        "Khi nhận được phản hồi từ máy chủ",
+        "Khi xảy ra lỗi trong quá trình xử lý phản hồi",
+        "Tất cả các đáp án đều sai"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 71,
+      "topicId": 4,
+      "question": "ReactJS được phát triển bởi công ty nào?",
+      "answers": [
+        "Facebook",
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 72,
+      "topicId": 4,
+      "question": "ReactJS sử dụng cú pháp gì để tạo các component?",
+      "answers": [
+        "HTML",
+        "JSX",
+        "XML",
+        "CSS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 73,
+      "topicId": 4,
+      "question": "ReactJS sử dụng state để làm gì?",
+      "answers": [
+        "Lưu trữ các thông tin cục bộ trong component",
+        "Lưu trữ các thông tin toàn cục trong ứng dụng",
+        "Định nghĩa các thuộc tính cho component",
+        "Xử lý các sự kiện của người dùng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 74,
+      "topicId": 4,
+      "question": "Để bắt đầu phát triển một ứng dụng ReactJS, ta cần cài đặt gì?",
+      "answers": [
+        "React Native",
+        "Visual Studio Code",
+        "Node.js",
+        "Redux"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 75,
+      "topicId": 4,
+      "question": "Trong ReactJS, để truyền dữ liệu từ component cha xuống component con, ta sử dụng gì?",
+      "answers": [
+        "State",
+        "Props",
+        "Refs",
+        "Hooks"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 76,
+      "topicId": 4,
+      "question": "Trong ReactJS, để thay đổi trạng thái của một component khi một sự kiện xảy ra, ta sử dụng gì?",
+      "answers": [
+        "State",
+        "Props",
+        "Refs",
+        "Hooks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 77,
+      "topicId": 4,
+      "question": "Trong ReactJS, để đồng bộ dữ liệu giữa các component không có quan hệ cha-con, ta sử dụng gì?",
+      "answers": [
+        "Props",
+        "React Router",
+        "Context API",
+        "Hooks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 78,
+      "topicId": 4,
+      "question": "Trong ReactJS, để tạo một component có thể chứa nhiều component khác, ta sử dụng gì?",
+      "answers": [
+        "State",
+        "Props",
+        "Hooks",
+        "Fragments"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 79,
+      "topicId": 4,
+      "question": "Hook nào trong ReactJS được sử dụng để quản lý trạng thái của một component bằng cách sử dụng các biến cục bộ?",
+      "answers": [
+        "useState()",
+        "useEffect()",
+        "useContext()",
+        "useMemo()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 80,
+      "topicId": 4,
+      "question": "Hook nào trong ReactJS được sử dụng để cung cấp các biến và hàm global cho tất cả các thành phần của ứng dụng?",
+      "answers": [
+        "useState()",
+        "useEffect()",
+        "useContext()",
+        "useMemo()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 81,
+      "topicId": 4,
+      "question": "Hook nào trong ReactJS được sử dụng để tối ưu hóa hiệu suất của component bằng cách lưu trữ kết quả tính toán giữa các lần render?",
+      "answers": [
+        "useState()",
+        "useEffect()",
+        "useContext()",
+        "useMemo()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 82,
+      "topicId": 4,
+      "question": "Hook nào trong ReactJS được sử dụng để tạo một reference tới một phần tử HTML hoặc một thành phần React?",
+      "answers": [
+        "useRef()",
+        "useEffect()",
+        "useContext()",
+        "useMemo()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 83,
+      "topicId": 4,
+      "question": "Hook nào trong ReactJS được sử dụng để theo dõi sự thay đổi của một giá trị và chỉ khi giá trị thay đổi, mới thực hiện một tác vụ nào đó?",
+      "answers": [
+        "useRef()",
+        "useEffect()",
+        "useContext()",
+        "useMemo()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 84,
+      "topicId": 4,
+      "question": "Thư viện nào trong ReactJS được sử dụng để quản lý các route và chuyển hướng trang trong ứng dụng web?",
+      "answers": [
+        "React Router",
+        "Redux",
+        "Axios",
+        "Lodash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 85,
+      "topicId": 4,
+      "question": "Component nào trong React Router được sử dụng để xác định các route và hiển thị các component khác nhau dựa trên đường dẫn URL của trang?",
+      "answers": [
+        "Routes",
+        "Route",
+        "Redirect",
+        "NavLink"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 86,
+      "topicId": 4,
+      "question": "Component nào trong React Router được sử dụng để định tuyến lại (redirect) người dùng đến một địa chỉ URL khác?",
+      "answers": [
+        "Routes",
+        "Route",
+        "Redirect",
+        "NavLink"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 87,
+      "topicId": 4,
+      "question": "Hook nào trong React Router được sử dụng để truy cập các tham số động được truyền từ URL đến component được hiển thị?",
+      "answers": [
+        "useHistory()",
+        "useParams()",
+        "useLocation()",
+        "useRouteMatch()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 88,
+      "topicId": 4,
+      "question": "Component nào trong React Router được sử dụng để tạo liên kết đến các địa chỉ URL khác nhau trong ứng dụng?",
+      "answers": [
+        "Routes",
+        "Route",
+        "Link",
+        "Redirect"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 89,
+      "topicId": 4,
+      "question": "Component nào trong React Router giống như Link, nhưng có thể thêm class active khi liên kết được truy cập?",
+      "answers": [
+        "Routes",
+        "Route",
+        "Link",
+        "NavLink"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 90,
+      "topicId": 4,
+      "question": "Prop nào của NavLink trong React Router được sử dụng để chỉ định đường dẫn URL của liên kết?",
+      "answers": [
+        "activeClassName",
+        "className",
+        "style",
+        "to"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 91,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Các nhà sáng lập ra chủ nghĩa Mác – Lênin đã sử dụng thuật ngữ nào thay cho thuật ngữ “Chủ nghĩa xã hội khoa học”?",
+      "answers": [
+        "Chủ nghĩa cộng sản khoa học",
+        "Xã hội chủ nghĩa",
+        "Chủ nghĩa cộng sản",
+        "Chủ nghĩa xã hội không tưởng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 92,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa xã hội khoa học là?",
+      "answers": [
+        "Một trong ba bộ phận hợp thành của chủ nghĩa Mác – Lênin",
+        "Nghiên cứu sự vận động xã hội nhằm thủ  tiêu chủ nghĩa tư bản và xây dựng xã hội xã hội chủ nghĩa, tiến tới xây dựng xã hội cộng sản chủ nghĩa",
+        "Là một trong ba bộ phận hợp thành của chủ nghĩa Mác – Lênin; Nghiên cứu sự vận động xã hội nhằm thủ  tiêu chủ nghĩa tư bản và xây dựng xã hội xã hội chủ nghĩa, tiến tới xây dựng xã hội cộng sản chủ nghĩa.",
+        "Nghiên cứu sự ra đời của chủ nghĩa tư bản, sự phát triển của chủ nghĩa tư bản, vận động xã hội nhằm thủ  tiêu chủ nghĩa tư bản và xây dựng xã hội xã hội chủ nghĩa, tiến tới xây dựng xã hội cộng sản chủ nghĩa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 93,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa Mác – Lênin là một học thuyết hoàn chỉnh, gồm:”?",
+      "answers": [
+        "Triết học Mác – Lênin, kinh tế chính trị học Mác – Lênin và chủ nghĩa xã hội khoa học",
+        "Triết học Mác – Lênin, kinh tế chính trị học Mác – Lênin",
+        "Kinh tế chính trị học Mác – Lênin và chủ nghĩa xã hội khoa học",
+        "Kinh tế chính trị học Mác – Lênin và chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 94,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Ba bộ phận hợp thành chủ nghĩa Mác – Lênin có mối quan hệ với nhau như thế nào?",
+      "answers": [
+        "Gắn bó, quan hệ biện chứng với nhau để luận giải một cách toàn diện sự diệt vong của chủ nghĩa tư bản và sự thắng lợi của chủ nghĩa xã hội là tất yếu như nhau, nhằm trang bị cho giai cấp công nhân và toàn thể nhân dân lao động thế giới quan khoa học, phương pháp luận khoa học để nhận thức và cải tạo thế giới.",
+        "Có mối quan hệ biện chứng với nhau",
+        "Là mối quan hệ phụ thuộc lẫn nhau",
+        "Là mối quan hệ gắn bó, lý giải siwj ra đời của các hình thái xã hội"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 95,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Ý nghĩa của việc học tập chủ nghĩa xã hội khoa học về mặt lý luận?",
+      "answers": [
+        "Chủ nghĩa xã hội khoa học trang bị những nhận thức chính trị - xã hội cho Đảng Cộng sản, Nhà nước, cho giai cấp công nhân và nhân dân lao động trong quá trình bảo vệ và xây dựng xã hội mới – xã hội xã hội chủ nghĩa.",
+        "Chủ nghĩa xã hội khoa học là vũ khí sắc bén trong cuộc đấu tranh chống các học thuyết phản động",
+        "Chủ nghĩa xã hội khoa học trang bị những nhận thức chính trị - xã hội cho Đảng Cộng sản, Nhà nước, cho giai cấp công nhân và nhân dân lao động trong quá trình bảo vệ và xây dựng xã hội mới – xã hội xã hội chủ nghĩa; Chủ nghĩa xã hội khoa học là vũ khí sắc bén trong cuộc đấu tranh chống các học thuyết phản động",
+        "Chủ nghĩa xã hội khoa học là vũ khí đấu tranh của giai cấp công nhân trong thời kỳ chống lại sự áp bức của chủ nghĩa tư bản."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 96,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Ý nghĩa của việc học tập chủ nghĩa xã hội khoa học về mặt thực tiễn?",
+      "answers": [
+        "Chủ nghĩa xã hội khoa học là một trong những cơ sở lý luận và phương pháp luận của nhiều khoa học xã hội chuyên ngành, đồng thời là cơ sở lý luận giúp cho các Đảng Cộng sản và công nhân quốc tế xác định con đường đi, định hướng hành động đúng đắn cho đường lối chiến lược, sách lược, chính sách phù hợp vói quy luật phát triển khách quan.",
+        "Chủ nghĩa xã hội khoa học trang bị những nhận thức chính trị - xã hội cho Đảng Cộng sản, Nhà nước, cho giai cấp công nhân và nhân dân lao động trong quá trình bảo vệ và xây dựng xã hội mới – xã hội xã hội chủ nghĩa.",
+        "Chủ nghĩa xã hội khoa học là vũ khí sắc bén trong cuộc đấu tranh chống các học thuyết phản động",
+        "Tất cả đều sai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 97,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học?",
+      "answers": [
+        "Những quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+        "Những nguyên tắc cơ bản, những điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp công nhân để thực hiện sự chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội, chủ nghĩa cộng sản.",
+        "Những quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa; Những nguyên tắc cơ bản, những điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp công nhân để thực hiện sự chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội, chủ nghĩa cộng sản.",
+        "Những nguyên tắc cơ bản, những điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp tư sản để thực hiện sự chuyển biến từ chế độ phong kiến lên lên chủ nghĩa xã hội, chủ nghĩa cộng sản."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 98,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Tư tưởng xã hội chủ nghĩa thời cổ đại chủ yếu thể hiện?",
+      "answers": [
+        "Những ước mơ, niềm khát vọng của công chúng bị áp bức, bóc lột",
+        "Mơ ước được hòa bình",
+        "Đấu tranh giải phóng dân tộc bị áp bức",
+        "Thực hiện nền dân chủ."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 99,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Các nhà nghiên cứu lích sử tư tưởng xã hội chủ nghĩa thường đưa ra các tiêu chí nào để phân loại các tư tưởng xã hội chủ nghĩa?",
+      "answers": [
+        "Căn cứ vào quá trình lịch sử hình thành các tư tưởng xã hội chủ nghĩa gắn với các chế độ xã hội; Căn cứ vào tính chất, trình độ phát triển của các tư tưởng",
+        "Căn cứ vào tính chất, trình độ phát triển của các tư tưởng trong từng thời kỳ",
+        "Căn cứ vào những nguyên tắc cơ bản, những điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp công nhân",
+        "Căn cứ vào quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 100,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa xã hội không tưởng thế kỷ XVI-XVII có những đại biểu xuất sắc nào?",
+      "answers": [
+        "Tômát Morơ (1478-1535)",
+        "Tômađô Cam panenla (1568-1639)",
+        "Giêrắcdơ Uyntenli (1609-1652)",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 101,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Sự hình thành của chủ nghĩa xã hội khoa học dựa trên các yếu tố nào?",
+      "answers": [
+        "Điều kiện kinh tế",
+        "Điều kiện kinh tế - xã hội",
+        "Vai trò của Các Mác và Phriđrích Ăngghen đối với sự ra đời của chủ nghĩa xã hội khoa học",
+        "Điều kiện kinh tế - xã hội; Vai trò của Các Mác và Phriđrích Ăngghen đối với sự ra đời của chủ nghĩa xã hội khoa học"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 102,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa xã hội khoa học nghiên cứu những quy luật chuyển biến xã hội từ:",
+      "answers": [
+        "Tư bản chủ nghĩa sang chủ nghĩa xã hội.",
+        "Chế độ phong kiến sang tư bản chủ nghĩa.",
+        "Chiếm hữu nô lệ sang chế độ phong kiến.",
+        "Phong kiến sang tư bản chủ nghĩa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 103,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Khoa học nào là hạt nhân của thế giới quan?",
+      "answers": [
+        "Toán học",
+        "Triết học.",
+        "Chính trị học.",
+        "Khoa học tự nhiên"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 104,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Các nhà xã hội chủ nghĩa không tưởng – phê phán tiêu biểu là?",
+      "answers": [
+        "Xanh Ximông (1769-1825); Phuriê (1772-1837)",
+        "Xanh Ximông (1769-1825); Phuriê (1772-1837); Ôoen (1771-1858)",
+        "Ôoen (1771-1858); Morơ (1478-1535)",
+        "C. Mac"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 105,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Giá trị lịch sử của chủ nghĩa xã hội không tưởng?",
+      "answers": [
+        "Chứa đựng một tinh thần nhân đạo cao cả",
+        "Thể hiện lòng yêu nước",
+        "Tinh thần đoàn kết giai cấp vô sản",
+        "Lòng hiếu thảo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 106,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Các nhà xã hội chủ nghĩa không tưởng đã nêu lên nhiều luận điểm có giá trị về sự phát triển của xã hội tương lai mà sau này các nhà sáng lập chủ nghĩa xã hội khoa học đã kế thừa, đó là?",
+      "answers": [
+        "Về tổ chức sản xuất và phân phối sản phẩm xã hội",
+        "Về vai trò của công nghiệp và khoa học kỹ thuật",
+        "Về xóa bỏ sự đối lập giữa lao động chân tay và lao động trí óc…",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 107,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Hạn chế lịch sử của tư tưởng xã hội chủ nghĩa trước Mác?",
+      "answers": [
+        "Không thể phát hiện ra lực lượng xã hội tiên phong – Giai cấp công nhân",
+        "Phát hiện ra lực lượng xã hội tiên phong – Giai cấp công nhân",
+        "Đã phát hiện ra lực lượng xã hội tiên phong – Giai cấp nông dân",
+        "Không thể phát hiện ra lực lượng xã hội tiên phong – Nhân dân lao động"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 108,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Đại biểu nào có vai trò đối với sự ra đời của chủ nghĩa xã hội khoa học?",
+      "answers": [
+        "C. Mác (1818-1883); Ph. Ăngghen (1820-1895)",
+        "Ôoen (1771-1858); Morơ (1478-1535)",
+        "Xanh Ximông (1769-1825); Phuriê (1772-1837)",
+        "Tômađô Cam panenla (1568-1639)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 109,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Thời kỳ C. Mác và Ph. Awngghen đặt nền móng và phát triển chủ nghĩa xã hội khoa học?",
+      "answers": [
+        "1844-1895",
+        "1846-1895",
+        "1844-1899",
+        "1844-1920"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 110,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Tác phẩm “Tuyên ngôn của đảng cộng sản” viết vào thời gian nào?",
+      "answers": [
+        "1948",
+        "1848",
+        "1920",
+        "1930"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 111,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Phong trào Hiến chương của những người lao động ở Anh diễn ra trong vòng mấy năm?",
+      "answers": [
+        "10 năm ( 1836-1846)",
+        "11 năm ( 1836-1847)",
+        "12 năm ( 1836-1848)",
+        "13 năm ( 1836-1849)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 112,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Phong trào công nhân dệt ở Xilêdi diễn ra năm nào?",
+      "answers": [
+        "1844",
+        "1845",
+        "1846",
+        "1854"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 113,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Phong trào công nhân dệt thành phố Lion, nước Pháp diễn ra?",
+      "answers": [
+        "Năm 1831 và năm 1834",
+        "Năm 1831 và năm 1835",
+        "Năm 1831 và năm 1836",
+        "Năm 1831 và năm 1839"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 114,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "C. Mác sinh năm nào?",
+      "answers": [
+        "1818",
+        "1819",
+        "1820",
+        "1845"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 115,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "C. Mac và Ăngghen là người nước nào?",
+      "answers": [
+        "Đức",
+        "Liên Xô",
+        "Mỹ",
+        "Anh"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 116,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Ba phát kiến vĩ đại của C. Mac và Ăngghen là?",
+      "answers": [
+        "Chủ nghĩa duy vật lịch sử, Sứ mệnh lịch sử của giai cấp công nhân, lý thuyết bàn tay vô hình",
+        "Chủ nghĩa duy vật lịch sử, Sứ mệnh lịch sử của giai cấp công nhân, học thuyết về giá trị thặng dư",
+        "lý thuyết bàn tay vô hình, học thuyết về giá trị thặng dư",
+        "học thuyết về giá trị thặng dư, lý thuyết bàn tay vô hình, lý thuyết về lợi thế so sánh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 117,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Tác phẩm tuyên ngôn của đảng cộng sản của C. Mac và Ăngghen ra đời?",
+      "answers": [
+        "2/1848",
+        "3/1848",
+        "2/1849",
+        "2/1845"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 118,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Quốc tế I thành lập năm nào?",
+      "answers": [
+        "1864",
+        "1846",
+        "1859",
+        "1872"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 119,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Tập I của Bộ tư bản của C. Mác xuất bản?",
+      "answers": [
+        "1867",
+        "1876",
+        "1890",
+        "1845"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 120,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Theo Lênin, chuyên chính vô sản là?",
+      "answers": [
+        "Là một hình thức nhà nước mới",
+        "Là nhà nước Tư bản",
+        "Là nhà nước của chủ nô",
+        "Là thời kỳ quá độ"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 121,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa Mác-Lênin gồm mấy bộ phận cấu thành?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 122,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Theo chủ nghĩa Mác-Lênin, giai đoạn đầu của phương thức sản xuất cộng sản chủ nghĩa:",
+      "answers": [
+        "Cộng sản nguyên thủy",
+        "Chủ nghĩa xã hội",
+        "Chủ nghĩa tư bản",
+        "Thời kỳ quá độ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 123,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chủ nghĩa Mác-Lênin ra đời có sự kế thừa của những tư tưởng khoa học nào?",
+      "answers": [
+        "Triết học cổ điển Đức",
+        "Kinh tế chính trị tư sản cổ điển Anh.",
+        "Chủ nghĩa xã hội không tưởng Pháp.",
+        "Cả A, B và C đều đúng."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 124,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Khoa học nào là hạt nhân của thế giới quan?",
+      "answers": [
+        "Toán học",
+        "Triết học.",
+        "Chính trị học.",
+        "Khoa học tự nhiên."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 125,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Tư tưởng xã hội chủ nghĩa là gì?",
+      "answers": [
+        "Là một hệ thống những quan niệm phản ánh những nhu cầu, những ước mơ, nguyện vọng của các giai cấp lao động về một xã hội không có áp bức và bóc lột, mọi người đều bình đẳng và có cuộc sống ấm no, hạnh phúc.",
+        "Là những thành tựu của con người đạt được trong quá trình đấu tranh giải phóng giai cấp.",
+        "Là chế độ xã hội không có áp bức bóc lột, mọi người đều bình đẳng tự do.",
+        "Cả a, b, c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 126,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Những biểu hiện cơ bản của tư tưởng xã hội chủ nghĩa là gì?",
+      "answers": [
+        "Là những ước mơ nguyện vọng về một chế độ xã hội ai cũng có việc làm ai cũng lao động.",
+        "Là quan niệm về một chế độ xã hội mà tư liệu sản xuất đều thuộc về mọi thành viên xã hội.",
+        "Là những tư tưởng về một xã hội, trong đó mọi người đều bình đẳng, có cuộc sống ấm no, tự do, hạnh phúc.",
+        "Cả a, b và c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 127,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Những yếu tố tư tưởng XHCN được xuất hiện từ khi nào?",
+      "answers": [
+        "Chế độ tư bản chủ nghĩa ra đời",
+        "Sự xuất hiện chế độ tư hữu, xuất hiện giai cấp thống trị và bóc lột.",
+        "Sự xuất hiện giai cấp công nhân",
+        "Ngay từ thời cộng sản nguyên thuỷ."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 128,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+      "answers": [
+        "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+        "Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.",
+        "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 129,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Chức năng và nhiệm vụ của chủ nghĩa xã hội khoa học là gì?",
+      "answers": [
+        "Là trang bị những tri thức khoa học của chủ nghĩa Mác - Lênin đã phát hiện ra và luận giải về quá trình tất yếu lịch sử dẫn đến hình thành, phát triển hình thái kinh tế - xã hội cộng sản, giải phóng xã hội, giải phóng con người.",
+        "Là giáo dục, trang bị lập trường tư tưởng chính trị của giai cấp công nhân cho đảng cộng sản, giai cấp công nhân và nhân dân lao động.",
+        "Là định hướng về chính trị – xã hội cho mọi hoạt động của giai cấp công nhân, của đảng cộng sản, của nhà nước và của nhân dân lao động trên mọi lĩnh vực."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 130,
+      "topicId": 5,
+      "generaltopic": 1,
+      "question": "Ai đã đưa ra quan niệm 'CNXH là sự phản kháng và đấu tranh chống sự bóc lột người lao động, một cuộc đấu tranh nhằm hoàn toàn xoá bỏ sự bóc lột'",
+      "answers": [
+        "S.Phuriê",
+        "C.Mác",
+        "Ph.Ănghen",
+        "V.I.Lênin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 131,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai được coi là người mở đầu các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa thời cận đại.'",
+      "answers": [
+        "Tômađô Campanenla",
+        "Tômát Morơ",
+        "Arítxtốt",
+        "Platôn"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 135,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người viết tác phẩm 'Không tưởng' (Utôpi)",
+      "answers": [
+        "Xanh Xi Mông",
+        "Campanenla",
+        "Tômát Morơ",
+        "Uynxtenli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 132,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người đã đưa ra chủ trương thiết lập nền 'Chuyên chính cách mạng của những người lao động'.",
+      "answers": [
+        "Tômát Morơ",
+        "Xanh Ximông",
+        "Grắccơ Babớp",
+        "Morenly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 133,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Tư tưởng về 'Giang sơn ngàn năm của Chúa' xuất hiện ở thời đại nào.",
+      "answers": [
+        "Cộng sản nguyên thuỷ",
+        "Thời cổ đại",
+        "Thời cận đại",
+        "Thời phục hưng"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 134,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Tác phẩm 'Thành phố mặt trời' là của tác giả nào?",
+      "answers": [
+        "Giêrắcdơ Uyxntenli",
+        "Tômađô Campanenla",
+        "Giăng Mêliê",
+        "Sáclơ Phuriê"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 136,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai đã viết tác phẩm 'Những di chúc của tôi'",
+      "answers": [
+        "Tômát Morơ",
+        "Giăng Mêliê",
+        "Grắccơ Babớp",
+        "Morenly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 137,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người đặt vấn đề đấu tranh cho chủ nghĩa xã hội với tính cách là một phong trào thực tiễn (Phong trào hiện thực)",
+      "answers": [
+        "Tômát Morơ",
+        "Xanh Ximông",
+        "Grắccơ Babớp",
+        "Morenly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 138,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX?",
+      "answers": [
+        "Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê",
+        "Xanh Ximông, Sáclơ Phuriê, G. Mably",
+        "Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen",
+        "Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 139,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp.",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Rôbớt Ôoen",
+        "Grắccơ Babớp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 140,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nhà tư tưởng xã hội chủ nghĩa nào đã tố cáo quá trình tích luỹ tư bản chủ nghĩa bằng hình ảnh 'cừu ăn thịt người'.",
+      "answers": [
+        "Tômát Morơ",
+        "Sáclơ Phuriê",
+        "Rôbớt Ôoen",
+        "Grắccơ Babớp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 141,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người nêu ra luận điểm: Trong nền kinh tế tư bản chủ nghĩa, 'sự nghèo khổ được sinh ra từ chính sự thừa thãi'.",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Rôbớt Ôoen",
+        "Tômát Morơ"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 142,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nhà tư tưởng xã hội chủ nghĩa nào đã chia lịch sử phát triển của nhân loại thành các giai đoạn: mông muội, dã man, gia trưởng và văn minh.",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Grắccơ Babớp",
+        "Tômát Morơ"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 143,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai đã nêu ra tư tưởng: trình độ giải phóng xã hội được đo bằng trình độ giải phóng phụ nữ?",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Grắccơ Babớp",
+        "Rôbớt Ôoen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 144,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Người mơ ước xây dựng thành phố mặt trời, mà trong đó không có nạn thất nghiệp, không có kẻ lười biếng, ai cũng lao động. Ông là ai?",
+      "answers": [
+        "Giê-rắc Uynxteli",
+        "Grắc Babơp",
+        "Tômađô Cămpanela",
+        "Tô mát Mo rơ"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 145,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Grắccơ Babớp",
+        "Rôbớt Ôoen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 146,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nhà tư tưởng xã hội chủ nghĩa nào đã bị phá sản trong khi thực nghiệm tư tưởng cộng sản chủ nghĩa của mình?",
+      "answers": [
+        "Xanh Ximông",
+        "Sáclơ Phuriê",
+        "Rôbớt Ôoen",
+        "Tômát Morơ"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 147,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Những đại biểu tiêu biểu cho chủ nghĩa xã hội không tưởng phê phán thế kỷ XIX ở Pháp và Anh?",
+      "answers": [
+        "Xanh xi mông",
+        "Phuriê",
+        "Rô Bớc Ô Oen",
+        "Cả a, b, c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 148,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Chọn những tác giả nào đúng với tác phẩm của họ?",
+      "answers": [
+        "To mát Morơ: Tác phẩm Thành phố mặt trời",
+        "Tômađô Campanenla: Tác phẩm Không tưởng (Utopie)",
+        "Giắccơ Babớp: Tuyên ngôn của những người bình dân",
+        "Cả ba đều sai."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 149,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Những hạn chế cơ bản của các nhà tư tưởng xã hội chủ nghĩa trước Mác là gì?",
+      "answers": [
+        "Chưa thấy được bản chất bóc lột và quá trình phát sinh phát triển và diệt vong tất yếu của chủ nghĩa tư bản.",
+        "Không dùng bạo lực cách mạng để xoá bỏ chế độ tư bản chủ nghĩa.",
+        "Không phát hiện được lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng từ chủ nghĩa tư bản lên chủ nghĩa xã hội và cộng sản chủ nghĩa.",
+        "Cả a, b và c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 150,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?",
+      "answers": [
+        "Do trình độ nhận thức của những nhà tư tưởng.",
+        "Do khoa học chưa phát triển.",
+        "Do những điều kiện lịch sử khách quan quy định.",
+        "Cả a, b, c."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 151,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "C. Mác sinh ngày tháng năm nào?",
+      "answers": [
+        "14.3.1918",
+        "5.5.1820",
+        "5.5.1818",
+        "22.4.1818"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 152,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "C. Mác mất ngày tháng năm nào?",
+      "answers": [
+        "14.3.1883",
+        "14.3.1881",
+        "5.8.1883",
+        "21.1.1883"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 153,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ph. Ăngghen sinh ngày tháng năm nào?",
+      "answers": [
+        "25.11.1818",
+        "28.11.1820",
+        "5.5.1820",
+        "22.4.1820"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 154,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ph. Ăngghen mất ngày tháng năm nào?",
+      "answers": [
+        "14.3.1888",
+        "5.8.1895",
+        "28.11.1895",
+        "21.1.1895"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 155,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người được Ph.Ăngghen nhận xét là \"có tầm mắt rộng thiên tài\"?",
+      "answers": [
+        "Phurie",
+        "Ôoen",
+        "G. Ba lớp",
+        "Xanh Ximông"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 166,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người được Ph.Ăngghen đánh giá là \"nắm phép biện chứng một cách cũng tài tình như Hêghen là người đương thời với ông\"?",
+      "answers": [
+        "Mê li ê",
+        "Xanh Ximông",
+        "Phurie",
+        "Ôoen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 167,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người được Ph.Ăngghen nhận xét \"Mọi phong trào xã hội, mọi thành tựu thực sự đã diễn ra ở Anh vì lợi ích của công nhân đều gắn với tên tuổi của ông\" ông là ai?",
+      "answers": [
+        "G. Uyn xtlenli",
+        "Xanh Ximông",
+        "Các Mác",
+        "Ôoen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 168,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai là người nêu ra quan điểm: \"Dân vi quý, xã tắc thứ chi, quân vi khinh\" (Dân là trọng hơn cả, xã tắc đứng đằng sau, vua còn nhẹ hơn\"?",
+      "answers": [
+        "Khổng Tử",
+        "Mạnh Tử",
+        "Hàn Phi Tử",
+        "Tuân tử"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 169,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ai trong số những người sau đây được Các Mác coi là nhà tư tưởng vĩ đại nhất thời cổ đại?",
+      "answers": [
+        "Đêmôcrit",
+        "Êpiquyarơ",
+        "Aristôt",
+        "Platôn"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 170,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học?",
+      "answers": [
+        "Lên án mạnh mẽ chủ nghĩa tư bản.",
+        "Phản ánh đúng khát vọng của nhân dân lao động bị áp bức.",
+        "Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu CNTB, xây dựng CNXH.",
+        "Chỉ ra sự cần thiết phải thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 171,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Những điều kiện và tiền đề khách quan nào dẫn đến sự ra đời của chủ nghĩa xã hội khoa học:",
+      "answers": [
+        "Sự ra đời và phát triển của nền đại công nghiệp tư bản chủ nghĩa",
+        "Sự trưởng thành của giai cấp công nhân công nghiệp",
+        "Những thành tựu khoa học tự nhiên và tư tưởng lí luận đầu thế kỉ 19",
+        "Cả a, b và c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 172,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Tiền đề nào là nguồn gốc lý luận trực tiếp của chủ nghĩa xã hội khoa học.",
+      "answers": [
+        "Triết học cổ điển Đức",
+        "Kinh tế chính trị học cổ điển Anh",
+        "Chủ nghĩa xã hội không tưởng – phê phán",
+        "Cả a, b và c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 173,
+      "topicId": 6,
+      "generaltopic": 1,
+      "question": "Ph. Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+      "answers": [
+        "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+        "Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
+        "Lý thuyết về lợi thế so sánh và học thuyết về giá trị thặng dư",
+        "Lý thuyết bàn tay vô hình và lý thuyết về giá trị thặng dư"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "answers": [
+    {
+      "userId": 5,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 0
+        },
+        {
+          "questionId": 4,
+          "answer": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 0
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 0
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 3
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 3
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        },
+        {
+          "questionId": 5,
+          "answer": 2
+        },
+        {
+          "questionId": 6,
+          "answer": 2
+        },
+        {
+          "questionId": 7,
+          "answer": 3
+        },
+        {
+          "questionId": 8,
+          "answer": 3
+        },
+        {
+          "questionId": 9,
+          "answer": 2
+        },
+        {
+          "questionId": 10,
+          "answer": 1
+        },
+        {
+          "questionId": 11,
+          "answer": 1
+        },
+        {
+          "questionId": 12,
+          "answer": 2
+        },
+        {
+          "questionId": 13,
+          "answer": 2
+        },
+        {
+          "questionId": 14,
+          "answer": 1
+        },
+        {
+          "questionId": 15,
+          "answer": 3
+        },
+        {
+          "questionId": 16,
+          "answer": 2
+        },
+        {
+          "questionId": 17,
+          "answer": 2
+        },
+        {
+          "questionId": 18,
+          "answer": 2
+        },
+        {
+          "questionId": 19,
+          "answer": 2
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 2
+        },
+        {
+          "questionId": 22,
+          "answer": 3
+        },
+        {
+          "questionId": 23,
+          "answer": 3
+        },
+        {
+          "questionId": 24,
+          "answer": 1
+        },
+        {
+          "questionId": 25,
+          "answer": 2
+        },
+        {
+          "questionId": 26,
+          "answer": 0
+        },
+        {
+          "questionId": 27,
+          "answer": 2
+        },
+        {
+          "questionId": 28,
+          "answer": 2
+        },
+        {
+          "questionId": 29,
+          "answer": 2
+        },
+        {
+          "questionId": 30,
+          "answer": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 3
+        },
+        {
+          "questionId": 22,
+          "answer": 3
+        },
+        {
+          "questionId": 23,
+          "answer": 1
+        },
+        {
+          "questionId": 24,
+          "answer": 1
+        },
+        {
+          "questionId": 25,
+          "answer": 1
+        },
+        {
+          "questionId": 26,
+          "answer": 3
+        },
+        {
+          "questionId": 27,
+          "answer": 3
+        },
+        {
+          "questionId": 28,
+          "answer": 2
+        },
+        {
+          "questionId": 29,
+          "answer": 2
+        },
+        {
+          "questionId": 30,
+          "answer": 2
+        },
+        {
+          "questionId": 31,
+          "answer": 3
+        },
+        {
+          "questionId": 32,
+          "answer": 2
+        },
+        {
+          "questionId": 33,
+          "answer": 3
+        },
+        {
+          "questionId": 34,
+          "answer": 3
+        },
+        {
+          "questionId": 35,
+          "answer": 1
+        },
+        {
+          "questionId": 36,
+          "answer": 1
+        },
+        {
+          "questionId": 37,
+          "answer": 1
+        },
+        {
+          "questionId": 38,
+          "answer": 1
+        },
+        {
+          "questionId": 39,
+          "answer": 3
+        },
+        {
+          "questionId": 40,
+          "answer": 2
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 41,
+          "answer": 2
+        },
+        {
+          "questionId": 42,
+          "answer": 1
+        },
+        {
+          "questionId": 43,
+          "answer": 1
+        },
+        {
+          "questionId": 44,
+          "answer": 1
+        },
+        {
+          "questionId": 45,
+          "answer": 3
+        },
+        {
+          "questionId": 46,
+          "answer": 1
+        },
+        {
+          "questionId": 47,
+          "answer": 2
+        },
+        {
+          "questionId": 48,
+          "answer": 3
+        },
+        {
+          "questionId": 49,
+          "answer": 3
+        },
+        {
+          "questionId": 50,
+          "answer": 1
+        },
+        {
+          "questionId": 51,
+          "answer": 1
+        },
+        {
+          "questionId": 52,
+          "answer": 1
+        },
+        {
+          "questionId": 53,
+          "answer": 2
+        },
+        {
+          "questionId": 54,
+          "answer": 2
+        },
+        {
+          "questionId": 55,
+          "answer": 2
+        },
+        {
+          "questionId": 56,
+          "answer": 2
+        },
+        {
+          "questionId": 57,
+          "answer": 1
+        },
+        {
+          "questionId": 58,
+          "answer": 2
+        },
+        {
+          "questionId": 59,
+          "answer": 1
+        },
+        {
+          "questionId": 60,
+          "answer": 1
+        },
+        {
+          "questionId": 61,
+          "answer": 2
+        },
+        {
+          "questionId": 62,
+          "answer": 1
+        },
+        {
+          "questionId": 63,
+          "answer": 1
+        },
+        {
+          "questionId": 64,
+          "answer": 3
+        },
+        {
+          "questionId": 65,
+          "answer": 2
+        },
+        {
+          "questionId": 66,
+          "answer": 1
+        },
+        {
+          "questionId": 67,
+          "answer": 2
+        },
+        {
+          "questionId": 68,
+          "answer": 0
+        },
+        {
+          "questionId": 69,
+          "answer": 0
+        },
+        {
+          "questionId": 70,
+          "answer": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "topicId": 4,
+      "answers": [
+        {
+          "questionId": 71,
+          "answer": 1
+        },
+        {
+          "questionId": 72,
+          "answer": 2
+        },
+        {
+          "questionId": 73,
+          "answer": 1
+        },
+        {
+          "questionId": 74,
+          "answer": 2
+        },
+        {
+          "questionId": 75,
+          "answer": 2
+        },
+        {
+          "questionId": 76,
+          "answer": 1
+        },
+        {
+          "questionId": 77,
+          "answer": 2
+        },
+        {
+          "questionId": 78,
+          "answer": 3
+        },
+        {
+          "questionId": 79,
+          "answer": 2
+        },
+        {
+          "questionId": 80,
+          "answer": 2
+        },
+        {
+          "questionId": 81,
+          "answer": 3
+        },
+        {
+          "questionId": 82,
+          "answer": 2
+        },
+        {
+          "questionId": 83,
+          "answer": 3
+        },
+        {
+          "questionId": 84,
+          "answer": 1
+        },
+        {
+          "questionId": 85,
+          "answer": 2
+        },
+        {
+          "questionId": 86,
+          "answer": 3
+        },
+        {
+          "questionId": 87,
+          "answer": 3
+        },
+        {
+          "questionId": 88,
+          "answer": 3
+        },
+        {
+          "questionId": 89,
+          "answer": 3
+        },
+        {
+          "questionId": 90,
+          "answer": 3
+        }
+      ],
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 3
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        },
+        {
+          "questionId": 4,
+          "answer": 3
+        },
+        {
+          "questionId": 5,
+          "answer": 3
+        },
+        {
+          "questionId": 6,
+          "answer": 1
+        },
+        {
+          "questionId": 7,
+          "answer": 1
+        },
+        {
+          "questionId": 8,
+          "answer": 3
+        },
+        {
+          "questionId": 9,
+          "answer": 3
+        },
+        {
+          "questionId": 10,
+          "answer": 2
+        },
+        {
+          "questionId": 11,
+          "answer": 0
+        },
+        {
+          "questionId": 12,
+          "answer": 1
+        },
+        {
+          "questionId": 13,
+          "answer": 3
+        },
+        {
+          "questionId": 14,
+          "answer": 2
+        },
+        {
+          "questionId": 15,
+          "answer": 2
+        },
+        {
+          "questionId": 16,
+          "answer": 3
+        },
+        {
+          "questionId": 17,
+          "answer": 2
+        },
+        {
+          "questionId": 18,
+          "answer": 1
+        },
+        {
+          "questionId": 19,
+          "answer": 0
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        }
+      ],
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "topicId": 4,
+      "answers": [
+        {
+          "questionId": 71,
+          "answer": 2
+        },
+        {
+          "questionId": 72,
+          "answer": 2
+        },
+        {
+          "questionId": 73,
+          "answer": 2
+        },
+        {
+          "questionId": 74,
+          "answer": 1
+        },
+        {
+          "questionId": 75,
+          "answer": 0
+        },
+        {
+          "questionId": 76,
+          "answer": 1
+        },
+        {
+          "questionId": 77,
+          "answer": 1
+        },
+        {
+          "questionId": 78,
+          "answer": 1
+        },
+        {
+          "questionId": 79,
+          "answer": 0
+        },
+        {
+          "questionId": 80,
+          "answer": 3
+        },
+        {
+          "questionId": 81,
+          "answer": 2
+        },
+        {
+          "questionId": 82,
+          "answer": 1
+        },
+        {
+          "questionId": 83,
+          "answer": 3
+        },
+        {
+          "questionId": 84,
+          "answer": 0
+        },
+        {
+          "questionId": 85,
+          "answer": 2
+        },
+        {
+          "questionId": 86,
+          "answer": 2
+        },
+        {
+          "questionId": 87,
+          "answer": 2
+        },
+        {
+          "questionId": 88,
+          "answer": 1
+        },
+        {
+          "questionId": 89,
+          "answer": 1
+        },
+        {
+          "questionId": 90,
+          "answer": 1
+        }
+      ],
+      "id": 11
+    },
+    {
+      "userId": 11,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 0
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 2
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "id": 12
+    },
+    {
+      "userId": 11,
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 3
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 3
+        },
+        {
+          "questionId": "11",
+          "answers": 2
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        },
+        {
+          "questionId": "21",
+          "answers": 0
+        },
+        {
+          "questionId": "22",
+          "answers": 1
+        },
+        {
+          "questionId": "23",
+          "answers": 1
+        },
+        {
+          "questionId": "24",
+          "answers": 0
+        },
+        {
+          "questionId": "25",
+          "answers": 0
+        },
+        {
+          "questionId": "26",
+          "answers": 3
+        },
+        {
+          "questionId": "27",
+          "answers": 2
+        },
+        {
+          "questionId": "28",
+          "answers": 2
+        },
+        {
+          "questionId": "29",
+          "answers": 0
+        },
+        {
+          "questionId": "30",
+          "answers": 0
+        }
+      ],
+      "id": 13
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 0
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 14
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 0
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 15
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 16
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1"
+        },
+        {
+          "questionId": "2"
+        },
+        {
+          "questionId": "3"
+        },
+        {
+          "questionId": "4"
+        },
+        {
+          "questionId": "5"
+        },
+        {
+          "questionId": "6"
+        },
+        {
+          "questionId": "7"
+        },
+        {
+          "questionId": "8"
+        },
+        {
+          "questionId": "9"
+        },
+        {
+          "questionId": "10"
+        },
+        {
+          "questionId": "11"
+        },
+        {
+          "questionId": "12"
+        },
+        {
+          "questionId": "13"
+        },
+        {
+          "questionId": "14"
+        },
+        {
+          "questionId": "15"
+        },
+        {
+          "questionId": "16"
+        },
+        {
+          "questionId": "17"
+        },
+        {
+          "questionId": "18"
+        },
+        {
+          "questionId": "19"
+        },
+        {
+          "questionId": "20"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1"
+        },
+        {
+          "questionId": "2"
+        },
+        {
+          "questionId": "3"
+        },
+        {
+          "questionId": "4"
+        },
+        {
+          "questionId": "5"
+        },
+        {
+          "questionId": "6"
+        },
+        {
+          "questionId": "7"
+        },
+        {
+          "questionId": "8"
+        },
+        {
+          "questionId": "9"
+        },
+        {
+          "questionId": "10"
+        },
+        {
+          "questionId": "11"
+        },
+        {
+          "questionId": "12"
+        },
+        {
+          "questionId": "13"
+        },
+        {
+          "questionId": "14"
+        },
+        {
+          "questionId": "15"
+        },
+        {
+          "questionId": "16"
+        },
+        {
+          "questionId": "17"
+        },
+        {
+          "questionId": "18"
+        },
+        {
+          "questionId": "19"
+        },
+        {
+          "questionId": "20"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 3
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 19
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 3
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 20
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 21
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 22
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 23
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 24
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 25
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 26
+    },
+    {
+      "userId": 11,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 3
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 27
+    },
+    {
+      "userId": 11,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 3
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 28
+    },
+    {
+      "userId": 38,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 29
+    },
+    {
+      "userId": 38,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 30
+    },
+    {
+      "userId": 38,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 31
+    },
+    {
+      "userId": 38,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 32
+    },
+    {
+      "userId": 38,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 33
+    },
+    {
+      "userId": 38,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 34
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 35
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 36
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "id": 37
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 2
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "id": 38
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 39
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 40
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 41
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 42
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 0
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 43
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 0
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 3
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 44
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 45
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 2
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 46
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 47
+    },
+    {
+      "userId": 11,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 48
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 49
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 0
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 3
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 3
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 2
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "id": 50
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 2
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "id": 51
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 2
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "id": 52
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "8/26/2023, 6:33:17 PM",
+      "id": 53
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 3
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 3
+        },
+        {
+          "questionId": "14",
+          "answers": 2
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "8/26/2023, 6:33:17 PM",
+      "id": 54
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "date": "26/8/2023",
+      "time": "18:46",
+      "id": 55
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "date": "26/8/2023",
+      "time": "18:46",
+      "id": 56
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "date": "26/8/2023",
+      "time": "19:06",
+      "id": 57
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 3
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 3
+        },
+        {
+          "questionId": "18",
+          "answers": 0
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "date": "26/8/2023",
+      "time": "19:06",
+      "id": 58
+    },
+    {
+      "userId": 39,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 1
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 2
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 2
+        },
+        {
+          "questionId": "8",
+          "answers": 0
+        },
+        {
+          "questionId": "9",
+          "answers": 0
+        },
+        {
+          "questionId": "10",
+          "answers": 3
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "27/8/2023",
+      "time": "01:58",
+      "id": 62
+    },
+    {
+      "userId": 40,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 2
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 2
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 2
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "29/8/2023",
+      "time": "00:59",
+      "id": 63
+    },
+    {
+      "userId": 42,
+      "topicId": "5",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        }
+      ],
+      "date": "29/8/2023",
+      "time": "22:20",
+      "id": 64
+    },
+    {
+      "userId": 42,
+      "topicId": "5",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 0
+        }
+      ],
+      "date": "29/8/2023",
+      "time": "22:22",
+      "id": 65
+    },
+    {
+      "userId": 42,
+      "topicId": "6",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 0
+        },
+        {
+          "questionId": "5",
+          "answers": 3
+        },
+        {
+          "questionId": "6",
+          "answers": 0
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 3
+        },
+        {
+          "questionId": "9",
+          "answers": 2
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 2
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 1
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 3
+        },
+        {
+          "questionId": "21",
+          "answers": 0
+        },
+        {
+          "questionId": "22",
+          "answers": 1
+        },
+        {
+          "questionId": "23",
+          "answers": 0
+        },
+        {
+          "questionId": "24",
+          "answers": 1
+        },
+        {
+          "questionId": "25",
+          "answers": 1
+        },
+        {
+          "questionId": "26",
+          "answers": 3
+        },
+        {
+          "questionId": "27",
+          "answers": 3
+        },
+        {
+          "questionId": "28",
+          "answers": 3
+        },
+        {
+          "questionId": "29",
+          "answers": 3
+        },
+        {
+          "questionId": "30",
+          "answers": 3
+        },
+        {
+          "questionId": "31",
+          "answers": 2
+        },
+        {
+          "questionId": "32",
+          "answers": 1
+        },
+        {
+          "questionId": "33",
+          "answers": 1
+        }
+      ],
+      "date": "30/8/2023",
+      "time": "00:22",
+      "id": 66
+    },
+    {
+      "userId": 43,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 1
+        },
+        {
+          "questionId": "13",
+          "answers": 0
+        },
+        {
+          "questionId": "14",
+          "answers": 0
+        },
+        {
+          "questionId": "15",
+          "answers": 0
+        },
+        {
+          "questionId": "16",
+          "answers": 0
+        },
+        {
+          "questionId": "17",
+          "answers": 0
+        },
+        {
+          "questionId": "18",
+          "answers": 3
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "30/8/2023",
+      "time": "13:37",
+      "id": 67
+    },
+    {
+      "userId": 43,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 1
+        },
+        {
+          "questionId": "3",
+          "answers": 2
+        },
+        {
+          "questionId": "4",
+          "answers": 1
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 1
+        },
+        {
+          "questionId": "7",
+          "answers": 1
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 1
+        },
+        {
+          "questionId": "11",
+          "answers": 1
+        },
+        {
+          "questionId": "12",
+          "answers": 0
+        },
+        {
+          "questionId": "13",
+          "answers": 1
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 1
+        },
+        {
+          "questionId": "16",
+          "answers": 1
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 1
+        },
+        {
+          "questionId": "19",
+          "answers": 1
+        },
+        {
+          "questionId": "20",
+          "answers": 0
+        }
+      ],
+      "date": "30/8/2023",
+      "time": "13:37",
+      "id": 68
+    },
+    {
+      "userId": 43,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "1",
+          "answers": 1
+        },
+        {
+          "questionId": "2",
+          "answers": 2
+        },
+        {
+          "questionId": "3",
+          "answers": 0
+        },
+        {
+          "questionId": "4",
+          "answers": 3
+        },
+        {
+          "questionId": "5",
+          "answers": 1
+        },
+        {
+          "questionId": "6",
+          "answers": 3
+        },
+        {
+          "questionId": "7",
+          "answers": 0
+        },
+        {
+          "questionId": "8",
+          "answers": 1
+        },
+        {
+          "questionId": "9",
+          "answers": 1
+        },
+        {
+          "questionId": "10",
+          "answers": 0
+        },
+        {
+          "questionId": "11",
+          "answers": 0
+        },
+        {
+          "questionId": "12",
+          "answers": 3
+        },
+        {
+          "questionId": "13",
+          "answers": 2
+        },
+        {
+          "questionId": "14",
+          "answers": 1
+        },
+        {
+          "questionId": "15",
+          "answers": 2
+        },
+        {
+          "questionId": "16",
+          "answers": 3
+        },
+        {
+          "questionId": "17",
+          "answers": 2
+        },
+        {
+          "questionId": "18",
+          "answers": 2
+        },
+        {
+          "questionId": "19",
+          "answers": 0
+        },
+        {
+          "questionId": "20",
+          "answers": 1
+        }
+      ],
+      "date": "30/8/2023",
+      "time": "14:34",
+      "id": 69
+    }
+  ]
+}

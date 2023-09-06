@@ -1,0 +1,84 @@
+
+.loading{
+    position: relative;
+    color: #41B5D0;  
+   
+}
+.loading::before{
+    left: 0;
+    z-index: -9999;
+    position: absolute;
+    content: "";
+    background: rgba(128, 128, 128, 0.158);
+    width: 100%;
+    height: 100vh;
+   
+}
+.loading .ant-spin-dot{
+    margin-top: 200px !important;
+    padding: 35px !important;
+}
+.loading .ant-spin-text{
+    margin-top: 280px !important;
+    font-size: 20px !important;
+    font-weight: 600;
+    z-index: 9999;
+    margin-left: 25px;
+}
+
+.loading .ant-spin-dot-item{
+    background: #1AB0D3 !important;
+    z-index: 9999;
+    padding: 15px !important;   
+}
+
+.formregister{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 100px;
+    background: white;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border: 1px solid #41B5D0;
+}
+
+.formregister .form input{
+  border: 1px solid white;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.206);
+  
+}
+
+.formregister .form .password{
+   border: 1px solid white;
+}
+  
+.formregister .form h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: -35px;
+    margin-bottom: 40px;
+    font-size: 35px;
+    color: #41B5D0;
+}
+
+.formregister .form button{
+    margin-top: 10px;
+    width: 30%;
+}
+
+.formregister .form .button1{
+    background: #41B5D0;
+    color: white;
+    font-weight: 600;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+}
+
+.formregister .form .button2{
+    margin-left: 20px;
+    background: white;
+    color: #41B5D0;
+    font-weight: 600;
+    box-shadow: #88a5bf7a 6px 2px 16px, #fffc -6px -2px 16px;
+}
